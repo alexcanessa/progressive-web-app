@@ -1,0 +1,15 @@
+{
+	"name": "Daisy",
+	"short_name": "daisy",
+	"display": "standalone",
+	"theme_color": "#E6377B",
+	"background_color": "#0439BA",
+	"description": "Visual app for Daisy",
+	"icons": [
+		{
+			"src": "assets/icons/144x144.jpg",
+			"sizes": "144x144",
+			"type": "image/jpg"
+		}
+	]
+}
